@@ -4,6 +4,7 @@ Hydraulic actuators are used across the shipping industry and are installed in v
 
 ## Data Set Description
 
+![teststand](Images/actuator.png)
 
 ## Code
 

@@ -12,3 +12,10 @@ The test stand used in this study was built using a collection of six 15,000 in 
 
 ## Code
 
+The scripts execute the baseline machine learning experiments.
+
+* CNN_train_script.py - damage classification
+* CNN_train_damage_script.py - damage type classification
+* CNN_train_load_script.py - load classification
+* CNN_train_actuator_script.py - actuator classification
+* CNN_train_new_condition_script.py - damage classification with a new condition

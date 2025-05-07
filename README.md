@@ -19,3 +19,13 @@ The scripts execute the baseline machine learning experiments.
 * CNN_train_load_script.py - load classification
 * CNN_train_actuator_script.py - actuator classification
 * CNN_train_new_condition_script.py - damage classification with a new condition
+
+## Requirements
+* matplotlib
+* pandas
+* numpy
+* scikit-learn
+* pytorch
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

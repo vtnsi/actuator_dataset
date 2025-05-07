@@ -8,7 +8,7 @@ Hydraulic actuators are used across the shipping industry and are installed in v
   <img src="Images/actuator.png">
 </p>
 
-![teststand](Images/actuator.png)
+The test stand used in this study was built using a collection of six 15,000 in lbf industrial rotary actuators manufactured by Moog Flo-Tork. Luna Labs' eCBM node was used to monitor inlet / outlet pressure conditions, temperature, position, and acceleration.  The data set is composed of examples collected from hydraulic actuators in a baseline condition and two faulty conditions - Gear Damage and Seal Damage.
 
 ## Code
 

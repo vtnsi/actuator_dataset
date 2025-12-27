@@ -34,7 +34,7 @@ Act_dir = [
     "Act_5",
     "Act_6",
 ]
-Act_dir = ["data/" + s for s in Act_dir]
+Act_dir = ["Data/" + s for s in Act_dir]
 
 # list of feautres to extract and compress
 sensor_names = [
